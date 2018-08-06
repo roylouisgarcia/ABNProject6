@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#300032</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_divider">#083614</color>
+    <color name="bg_middle">#06000a</color>
+    <color name="bg_bottom">#06000a</color>
+    <color name="bg_top">#083614</color>
+    <color name="fg_text_color">#3cff00</color>
+</resources>
