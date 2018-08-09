@@ -1,5 +1,34 @@
 <resources>
     <string name="app_name">Radiohead News</string>
     <string name="no_news_found">No news found.</string>
+    <string name="request_api">Make sure to supply a valid API key via \"Settings\".</string>
     <string name="no_internet">No internet connection.</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_menu_title">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings For API key settings -->
+    <string name="settings_api_default">Enter your API Key:</string>
+    <string name="settings_api_key_key">api_key</string>
+    <string name="settings_api_key_value">1eca9406-ab73-49c4-9a9b-d24068f191</string>
+
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <!-- Strings For Order-By labels -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+
+    <!-- Label for order-by newest option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by oldest option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!-- Label for order-by relevance option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
 </resources>
